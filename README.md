@@ -1,4 +1,4 @@
-## Hola, soy Diego 👋
+## Hey there, I'm Diego 👋
 
 🔭 I’m currently working on: data-driven environmental projects focused on water treatment, waste management, and process optimization.
 
