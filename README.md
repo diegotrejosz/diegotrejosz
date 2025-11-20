@@ -39,18 +39,17 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/diegotrejosz/Proyecto-12.git)<br>
-This project consists of building a predictive model to estimate gold recovery during the ore processing cycle. Using industrial production data, the model identifies key variables affecting extraction efficiency. The goal is to help optimize mineral processing and improve operational decisions..<br>
-Libraries Utilized: Pandas, Numpy, Matplotlib, Seaborn, Scipy
-
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
+### [ Video Game Market Pattern Detection: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
+This project focuses on analyzing video game sales data to identify the factors that determine whether a game becomes successful. Using historical data up to 2016—including user and expert reviews, genres, platforms, and ESRB ratings—the goal is to uncover patterns that help predict promising titles and guide marketing strategies for the upcoming year. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
+### [ Optimization of a predictive model for mineral extraction efficiency: ](https://github.com/diegotrejosz/Proyecto-12.git)<br>
+This project consists of building a predictive model to estimate gold recovery during the ore processing cycle. Using industrial production data, the model identifies key variables affecting extraction efficiency. The goal is to help optimize mineral processing and improve operational decisions..<br>
+Libraries Utilized: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
+### [ Predictive Customer Prospecting in Telecommunications (in progress): ](https://github.com/diegotrejosz/Proyecto-12.git)<br>
+This project involved analyzing customer data to identify potential leads in the telecommunications sector. Using historical behavior, preferences, and demographic information, the goal was to detect promising customers and optimize marketing and outreach strategies..<br>
+Libraries utilized: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
 </p>
 
