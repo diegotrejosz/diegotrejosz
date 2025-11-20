@@ -39,9 +39,9 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project](https://github.com/diegotrejosz/Proyecto-12.git)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [ Using Dating Profiles to Predict Occupation: ](https://github.com/diegotrejosz/Proyecto-12.git)<br>
+This project consists of building a predictive model to estimate gold recovery during the ore processing cycle. Using industrial production data, the model identifies key variables affecting extraction efficiency. The goal is to help optimize mineral processing and improve operational decisions..<br>
+Libraries Utilized: Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
 ### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
 Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
