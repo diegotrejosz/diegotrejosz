@@ -39,7 +39,7 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Video Game Market Pattern Detection: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
+### [ Video Game Market Pattern Detection: ](https://github.com/diegotrejosz/Proyecto-6.git)<br>
 This project focuses on analyzing video game sales data to identify the factors that determine whether a game becomes successful. Using historical data up to 2016—including user and expert reviews, genres, platforms, and ESRB ratings—the goal is to uncover patterns that help predict promising titles and guide marketing strategies for the upcoming year. <br>
 Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 
