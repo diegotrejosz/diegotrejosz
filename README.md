@@ -47,7 +47,7 @@ Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
 This project consists of building a predictive model to estimate gold recovery during the ore processing cycle. Using industrial production data, the model identifies key variables affecting extraction efficiency. The goal is to help optimize mineral processing and improve operational decisions..<br>
 Libraries Utilized: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn, Scipy
 
-### [ Predictive Customer Prospecting in Telecommunications (in progress): ](https://github.com/diegotrejosz/Proyecto-12.git)<br>
+### [ Predictive Customer Prospecting in Telecommunications (in progress): ](https://github.com/diegotrejosz/Telecom-Analysis.git)<br>
 This project involved analyzing customer data to identify potential leads in the telecommunications sector. Using historical behavior, preferences, and demographic information, the goal was to detect promising customers and optimize marketing and outreach strategies..<br>
 Libraries utilized: Scikit-Learn, Pandas, Numpy, Matplotlib, Seaborn
 
